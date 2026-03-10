@@ -320,7 +320,7 @@ export default function Home() {
         }
 
         /* ABOUT */
-        .about-wrap { max-width: 680px; }
+        .about-wrap { max-width: 1100px; }
         .about-text p {
           font-family: 'Fraunces', serif;
           font-size: 1rem; line-height: 1.85;
