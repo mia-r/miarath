@@ -75,6 +75,7 @@ export default function Home() {
           <h1 className="hero-name">Mia<br />Rath.</h1>
           <p className="hero-body">
             I&apos;m obsessed with whatever everything else is built on top of. I want to understand it, get close to it, and help build it.
+            Also I half vibe-coded this website.
           </p>
           <button className="hero-cta" onClick={() => scrollTo("about")}>
             scroll down
