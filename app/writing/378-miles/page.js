@@ -34,7 +34,7 @@ export default function Article() {
 
           <ol>
             <li>Runs didn&apos;t have to be consecutive.</li>
-            <li>Every run had to be faster than a 10:00/mile pace. No walk-jogging. No exceptions.</li>
+            <li>Every run had to be faster than a 11:00/mile pace. No walk-jogging. No exceptions.</li>
           </ol>
 
           <p>I said yes immediately. Not sure what that says about me.</p>
@@ -65,7 +65,7 @@ export default function Article() {
 
           <p>May is when it got real. The long runs started stacking. The 15-miler felt incredible, my girlfriend Molly crewed me at mile 11, and I was airborne the last 3 miles. The 10-miler was one of the best things I&apos;ve ever done. 5 AM, headlamp on, watched the sunrise at Ocean Beach. There&apos;s something about being the only person moving in the dark and then watching the world slowly turn on. It made me feel like I had my life together. The 9-miler was the same energy, completely different universe. I was in New York visiting a friend, got up early, still firmly on PST, and ran through Central Park in the rain reliving the Charli XCX concert from the night before the whole way. Cinematic.</p>
 
-          <p>And then the 18-miler. May 17th. Simply horrific. I vomited twice. Molly showed up at mile 15, not to fix anything, just to hand me water and exist in the same space as me. Turns out that&apos;s exactly what you need when you&apos;re 18 miles deep and falling apart.</p>
+          <p>And then the 18-miler. May 17th. Simply horrific. I vomited twice. Molly showed up at mile 15, not to fix anything, just to hand me water and exist in the same space as me. Turns out that&apos;s exactly what you need when you&apos;re 15 miles deep and falling apart.</p>
 
           <p>June and July were the heavy months. The 16-miler was mentally one of the worst days of the whole challenge. The long runs kept coming and the body started keeping score in ways I couldn&apos;t plan around. The 24-miler I had misplanned my route and spent the last mile and a half running a two block loop around my house to make up the distance. It was as demoralizing as it sounds. The 26-miler I hit the wall hard. Molly was there. When you&apos;re that deep in it you don&apos;t need to be saved, you just need a witness. A high five, a top off on electrolytes and some running gus, and someone who shows up anyway.</p>
 

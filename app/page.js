@@ -316,7 +316,7 @@ export default function Home() {
         }
         .sec-label {
           font-family: 'Bebas Neue', sans-serif;
-          font-size: 0.85rem; letter-spacing: 0.2em;
+          font-size: 0.95rem; letter-spacing: 0.2em;
           color: var(--accent); margin-bottom: 2.5rem;
         }
 
