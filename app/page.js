@@ -3,16 +3,16 @@ import { useState, useEffect, useRef } from "react";
 
 const posts = [
   {
+    title: "The Weirdest Market You Depend On Every Day. Spoiler: It's Energy",
+    date: "20206",
+    slug: "/writing/energy-markets",
+    tags: ["energy"],
+  },
+  {
     title: "I Ran 378 Miles Because My Friend Said 28 Was \"Too Easy\" and Called It a Birthday",
     date: "2026",
     slug: "/writing/378-miles",
     tags: ["running", "life"],
-  },
-  {
-    title: "The Weirdest Market You Depend On Every Day",
-    date: "coming soon",
-    slug: "#",
-    tags: ["energy"],
   },
 ];
 
