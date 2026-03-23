@@ -4,7 +4,7 @@ import { useState, useEffect, useRef } from "react";
 const posts = [
   {
     title: "The Weirdest Market You Depend On Every Day. Spoiler: It's Energy",
-    date: "20206",
+    date: "2026",
     slug: "/writing/energy-markets",
     tags: ["energy"],
   },
